@@ -1,6 +1,0 @@
-schedule==0.6.0
-
-simplejson==3.13.2
-
-tweepy==3.7.0
-
